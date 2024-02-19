@@ -1,7 +1,6 @@
 Olá, eu sou o Bruno Maiato, estudante de engenharia de software 👋
 
 - 👨‍💻  Atualmente estou aprendendo front-end
-- 🤔 Procuro ajuda com API's
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
